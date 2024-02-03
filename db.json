@@ -154,6 +154,25 @@
         }
       ],
       "id": 6
+    },
+    {
+      "basket": [
+        {
+          "id": 3,
+          "title": "U.S. POLO ASSN - Men's Solid Regular Fit Cotton Polo",
+          "image": "https://i.pinimg.com/564x/55/82/bc/5582bc23ad7619f10f09d10141e7a6b9.jpg",
+          "price": "400",
+          "rating": "4.0"
+        },
+        {
+          "id": 4,
+          "title": "Jockey - Men's Regular Fit Round Neck Half Sleeved T-Shirt",
+          "image": "https://i.pinimg.com/564x/26/ee/90/26ee903549b8b69635152f5db58264b2.jpg",
+          "price": "350",
+          "rating": "4.0"
+        }
+      ],
+      "id": 7
     }
   ],
   "favourites": [
