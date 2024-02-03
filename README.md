@@ -29,4 +29,8 @@ Shop Kart is a simple e-commerce website where you can buy products and add them
 
 ## Screenshots
 
-<div><img src="https://ibb.co/LYV5y4w"></div>
+<div><img src="https://github.com/Divyansh-Singhal/ShopKart/blob/main/signup.png"></div>
+<div><img src="https://github.com/Divyansh-Singhal/ShopKart/blob/main/login.png"></div>
+<div><img src="https://github.com/Divyansh-Singhal/ShopKart/blob/main/Home.png"></div>
+<div><img src="https://github.com/Divyansh-Singhal/ShopKart/blob/main/Cart.png"></div>
+<div><img src="https://github.com/Divyansh-Singhal/ShopKart/blob/main/Placeorder.png"></div>
